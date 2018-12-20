@@ -1,0 +1,3 @@
+
+\squid:S1068"9Remove this unused "mActivityLoginBinding" private field.(æ¼½öÿÿÿÿÿ8êãŠ³ü,
+‡squid:S1450"dRemove the "mActivityLoginBinding" field and declare it as a local variable in the relevant methods.(æ¼½öÿÿÿÿÿ8êãŠ³ü,
